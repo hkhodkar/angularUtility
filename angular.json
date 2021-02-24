@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "kendo"
+  "defaultProject": "kendo",
+  "cli": {
+    "analytics": false
+  }
 }
